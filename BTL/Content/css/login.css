@@ -1,0 +1,70 @@
+
+.grid {
+	margin: 0px auto;
+  	max-width: 400px;
+  	width: 90%;
+}
+
+.form input[type='text'], 
+.form input[type='Password']{
+  width: 100%;
+}
+
+/* modules/login.css */
+
+.login__header {
+  background-color: #282830;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 16px;
+  margin: 0 auto;
+}
+.login__body {
+  background-color: #fff;
+  margin-top: 10px;
+  /*position: relative;*/
+}
+.login__body span{
+	margin-left: 10px;
+	color: red;
+	padding: 0px;
+}
+
+/*.login__body::before {
+  background-color: #fff;
+  content: '';
+  height: 0.5em;
+  left: 50%;
+  margin-left: -0.25em;
+  margin-top: -0.25em;
+  position: absolute;
+  top: 0;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  width: 0.5em;
+}
+*/
+.login input[type='text'],.form input[type='Password']
+{
+  border: 1px solid #e5e5e5;
+  padding: 10px 15px;
+}
+
+.login__footer input{
+  background-color: #1dabb8;
+  border-radius: 0.25em;
+  color: #fff;
+  font-weight: 700;
+  padding: 10px 20px;
+  margin: auto;
+}
+
+.login__footer {
+  background-color: #fff;
+  display: flex;
+  padding: 10px;
+}

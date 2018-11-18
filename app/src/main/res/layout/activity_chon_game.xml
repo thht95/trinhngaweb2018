@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chon_game"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/chongame"
+    tools:context="com.nvtcracker.btl.ChonGame">
+
+    <Button
+        android:id="@+id/btnplay"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="65dp"
+        android:textSize="20dp"
+        android:background="#056b6666"
+        android:text="Play"
+        android:textColor="#e1e90f"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_below="@id/btnplay"
+        android:id="@+id/btnhigh"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:background="#056b6666"
+        android:text="High score"
+        android:textColor="#e1e90f"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_below="@id/btnhigh"
+        android:id="@+id/btnabout"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="85dp"
+        android:textSize="30dp"
+        android:background="#056b6666"
+        android:text="About"
+        android:textColor="#e1e90f"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btnexit"
+        android:layout_marginTop="280dp"
+        android:background="#056b6666"
+        android:text="Exit"
+        android:textSize="30dp"
+        android:textColor="#e1e90f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

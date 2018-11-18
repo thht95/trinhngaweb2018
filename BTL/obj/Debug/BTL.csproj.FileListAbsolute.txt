@@ -1,0 +1,322 @@
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\ApplicationInsights.config
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\csc.exe
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\vbc.exe
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\BTL.dll.config
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\BTL.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\BTL.pdb
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Antlr3.Runtime.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\EntityFramework.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\EntityFramework.SqlServer.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.Web.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.ApplicationInsights.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Newtonsoft.Json.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Owin.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\System.Web.Optimization.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\System.Web.Providers.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\WebGrease.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.Web.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.ApplicationInsights.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\System.Web.Optimization.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Antlr3.Runtime.pdb
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Newtonsoft.Json.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\EntityFramework.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\EntityFramework.SqlServer.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\System.Web.Providers.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\obj\Debug\BTL.dll
+c:\users\vancuong\documents\visual studio 2015\Projects\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\ApplicationInsights.config
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\csc.exe
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\vbc.exe
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\BTL.dll.config
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\BTL.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\BTL.pdb
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Antlr3.Runtime.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\EntityFramework.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\EntityFramework.SqlServer.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.Web.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Newtonsoft.Json.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Owin.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\System.Web.Optimization.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\System.Web.Providers.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\WebGrease.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.Web.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\System.Web.Optimization.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Antlr3.Runtime.pdb
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Newtonsoft.Json.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\EntityFramework.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\EntityFramework.SqlServer.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\System.Web.Providers.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Thuy Trang\Desktop\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
+C:\Users\Thuy Trang\Desktop\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Thuy Trang\Desktop\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Thuy Trang\Desktop\BTL\BTL\obj\Debug\BTL.dll
+C:\Users\Thuy Trang\Desktop\BTL\BTL\obj\Debug\BTL.pdb
+E:\BTL\BTL\bin\ApplicationInsights.config
+E:\BTL\BTL\bin\roslyn\csc.exe
+E:\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL\BTL\bin\roslyn\vbc.exe
+E:\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+E:\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL\BTL\bin\BTL.dll.config
+E:\BTL\BTL\bin\BTL.dll
+E:\BTL\BTL\bin\BTL.pdb
+E:\BTL\BTL\bin\Antlr3.Runtime.dll
+E:\BTL\BTL\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BTL\BTL\bin\AspNet.ScriptManager.jQuery.dll
+E:\BTL\BTL\bin\EntityFramework.dll
+E:\BTL\BTL\bin\EntityFramework.SqlServer.dll
+E:\BTL\BTL\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BTL\BTL\bin\Microsoft.AI.DependencyCollector.dll
+E:\BTL\BTL\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BTL\BTL\bin\Microsoft.AI.Web.dll
+E:\BTL\BTL\bin\Microsoft.AI.WindowsServer.dll
+E:\BTL\BTL\bin\Microsoft.ApplicationInsights.dll
+E:\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BTL\BTL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL\BTL\bin\Microsoft.Owin.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Google.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BTL\BTL\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BTL\BTL\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BTL\BTL\bin\Microsoft.Web.Infrastructure.dll
+E:\BTL\BTL\bin\Newtonsoft.Json.dll
+E:\BTL\BTL\bin\Owin.dll
+E:\BTL\BTL\bin\System.Web.Optimization.dll
+E:\BTL\BTL\bin\System.Web.Providers.dll
+E:\BTL\BTL\bin\WebGrease.dll
+E:\BTL\BTL\bin\Microsoft.AI.DependencyCollector.xml
+E:\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BTL\BTL\bin\Microsoft.AI.Web.xml
+E:\BTL\BTL\bin\Microsoft.AI.WindowsServer.xml
+E:\BTL\BTL\bin\Microsoft.ApplicationInsights.xml
+E:\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL\BTL\bin\System.Web.Optimization.xml
+E:\BTL\BTL\bin\Antlr3.Runtime.pdb
+E:\BTL\BTL\bin\Newtonsoft.Json.xml
+E:\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BTL\BTL\bin\EntityFramework.xml
+E:\BTL\BTL\bin\EntityFramework.SqlServer.xml
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BTL\BTL\bin\System.Web.Providers.xml
+E:\BTL\BTL\bin\Microsoft.Owin.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Google.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BTL\BTL\obj\Debug\BTL.csprojResolveAssemblyReference.cache
+E:\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\BTL\BTL\obj\Debug\BTL.dll
+E:\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\BTL.dll.config
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\BTL.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\BTL.pdb
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Owin.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\System.Web.Providers.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\WebGrease.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\System.Web.Providers.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\obj\Debug\BTL.dll
+C:\Users\Admin\Downloads\LTW\LapTrinhWeb\BTL\BTL\obj\Debug\BTL.pdb

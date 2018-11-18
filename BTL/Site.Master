@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BTL.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Túi Xách FITHOU</title>
+    
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="Content/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="Content/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" type="text/css" href="Content/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="Content/css/login.css" />
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome.min.css" />
+    <script type="text/javascript" src="/Content/js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="/Content/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/Content/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.scrollUp.min.js"></script>
+    <script type="text/javascript" src="/Content/js/xemct.js"></script>
+</head>
+<body>
+    <div id="top"></div>
+    <div class="container-fluid" id="wrapper">
+        <header><!--header-->
+		    <div class="header-top"><!--header-middle-->
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-sm-5">
+						    <div class="logo pull-left">
+							    <a href="trangchu.aspx"><img src="Content/img/logo.png" alt="logo" /></a>
+						    </div>
+					    </div>
+					    <div class="col-sm-7">
+						    <div class="shop-menu pull-right">
+							    <ul class="nav navbar-nav">
+								    <li><a href="cart.aspx"><i class="fa fa-shopping-cart"></i> Giỏ Hàng</a></li>
+								    <li><a href="dangnhap.aspx"><i class="fa fa-lock"></i> Đăng Nhập</a></li>
+                                    <li><a href="dangky.aspx"><i class="fa fa-sign-out"></i> Đăng Ký</a></li>
+                                    <li><a href="dangxuat.aspx"><i class="fa fa-sign-out"></i> Đăng xuất</a></li>
+							    </ul>
+						    </div>
+					    </div>
+				    </div>
+			    </div>
+		    </div><!--/header-middle-->
+            <div class="header-bottom"><!--header-bottom-->
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-sm-9">
+						    <div class="navbar-header">
+							    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								    <span class="sr-only">Toggle navigation</span>
+								    <span class="icon-bar"></span>
+								    <span class="icon-bar"></span>
+								    <span class="icon-bar"></span>
+							    </button>
+						    </div>
+						    <div class="mainmenu pull-left">
+							    <ul class="nav navbar-nav collapse navbar-collapse">
+								    <li><a href="trangchu.aspx" class="active">Trang Chủ</a></li>
+								    <li><a href="#">Túi Xách <i class="fa fa-angle-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="#">Túi Xách Laptop</a></li>
+										    <li><a href="#">Túi Xách Du Lịch - Thể Thao</a></li> 
+										    <li><a href="#">Túi Xách Máy Ảnh</a></li> 
+										    <li><a href="#">Túi Moto - Xe Đạp</a></li> 
+                                        </ul>
+                                    </li> 
+								    <li><a href="#">Túi Xách Thời Trang <i class="fa fa-angle-down"></i></a>
+                                        <ul class="sub-menu">
+                                            <li><a href="tuixachnu.aspx">Túi Xách Nữ</a></li>
+										    <li><a href="#">Túi Xách Nam</a></li>
+                                        </ul>
+                                    </li>
+							    </ul>
+						    </div>
+					    </div> <!--col-sm-9-->
+                        <div class="col-sm-3">
+                            <asp:Label ID="label" runat="server" Text=""></asp:Label>
+						    <div class="search_box pull-right" >
+							    <input type="text" placeholder="Search" style="background-image: url(../Content/img/searchicon.png);"/>
+						    </div>
+					    </div>
+				    </div>
+			    </div>
+		    </div><!--/header-bottom-->
+	    </header><!--/header-->
+        <div class="body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer id="footer"><!--Footer-->
+		    <div class="footer-widget">
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-sm-4">
+						    <div class="single-widget">
+							    <h2>Trụ Sở Chính</h2>
+							    <p>96 định công</p>
+						    </div>
+					    </div>
+					    <div class="col-sm-4">
+						    <div class="single-widget">
+							    <h2>Liên Hệ</h2>
+                                <p>Nhóm 4 : 01697243174</p>
+							  
+						    </div>
+					    </div>
+					    <div class="col-sm-4">
+						    <div class="single-widget">
+							    <h2>Hỗ Trợ</h2>
+							    <form action="#" class="searchform">
+								    <input type="Email" placeholder="Your email address" />
+								    <button type="submit" class="btn btn-default"><i class="fa fa-arrow-circle-o-right"></i></button>
+								    <p>Nhận cập nhật gần đây nhất từ đây</p>
+							    </form>
+						    </div>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		
+		    <div class="footer-bottom">
+			    <div class="container">
+				    <div class="row">
+					    <p class="pull-left">Copyright © 2018 NHÓM 4</p>
+					    <p class="pull-right">Designed by <span><a target="_blank" href="#">NHOM4</a></span></p>
+				    </div>
+			    </div>
+		    </div>
+	    </footer><!--/Footer-->
+    </div>
+    <a class="gotop"><i class="fa fa-angle-up"></i></a>
+    <script type="text/javascript">
+
+        
+    </script>
+</body>
+</html>
