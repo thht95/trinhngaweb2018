@@ -40,7 +40,7 @@
 								    <li><a href="cart.aspx"><i class="fa fa-shopping-cart"></i> Giỏ Hàng</a></li>
 								    <li><a href="dangnhap.aspx"><i class="fa fa-lock"></i> Đăng Nhập</a></li>
                                     <li><a href="dangky.aspx"><i class="fa fa-sign-out"></i> Đăng Ký</a></li>
-                                    <li><a href="dangxuat.aspx"><i class="fa fa-sign-out"></i> Đăng xuất</a></li>
+                                    <li style="display:none"><a href="dangxuat.aspx"><i class="fa fa-sign-out"></i> Đăng xuất</a></li>
 							    </ul>
 						    </div>
 					    </div>
