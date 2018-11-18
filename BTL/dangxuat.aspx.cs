@@ -15,6 +15,7 @@ namespace BTL
             Session.Remove("matkhau");
             Session.Remove("nguoidung");
             Response.Redirect("~/trangchu.aspx");
+	//final_test_2
         }
     }
 }
