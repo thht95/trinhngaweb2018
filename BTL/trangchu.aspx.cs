@@ -31,6 +31,7 @@ namespace BTL
             }
             Session["carts"] = carts;
             Response.Write("<script> alert('Thêm vào giỏ hàng thành công!'); </script>");
+	//final_test
         }
     }
 }

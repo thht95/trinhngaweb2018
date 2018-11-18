@@ -56,8 +56,10 @@ namespace BTL
             this.Tendangnhap = taikhoan;
             this.Matkhau = matkhau;
             this.Nguoidung = nguoidung;
+	//final_test
         }
 
     }
  
 }
+
