@@ -2,6 +2,14 @@
 <%@ MasterType virtualpath="~/Site.Master" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+    <style>
+        .chan {
+            background-color: red;
+        }
+        .le {
+            background-color: orange;
+        }
+    </style>
     <section id="slider"><!--slider-->
 		<div class="container">
 			<div class="row">
@@ -53,7 +61,7 @@
 										<p>Túi Xách  T10077</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay le">
 										<div class="overlay-content">
 											<h2>220.000đ </h2>
 										    <p>Túi Xách  T10077</p>
@@ -73,7 +81,7 @@
 										<p>Túi frame nữ hợp kim Balana màu hồng</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay chan">
 										<div class="overlay-content">
 											<h2>250,000₫</h2>
 										    <p>Túi frame nữ hợp kim Balana màu hồng</p>
@@ -93,7 +101,7 @@
 										<p>Túi Trapeze mặt cười Cabwer đen</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay le">
 										<div class="overlay-content">
 											<h2>499,000₫</h2>
 										    <p>Túi Trapeze mặt cười Cabwer đen</p>
@@ -113,7 +121,7 @@
 										<p>Túi Frame in họa tiết móc tua rua PDG</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay chan">
 										<div class="overlay-content">
 											<h2>449,000₫</h2>
 										    <p>Túi Frame in họa tiết móc tua rua PDG</p>
@@ -133,7 +141,7 @@
 										<p>Túi Đeo Chéo Nữ Nhỏ T10074</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay le">
 										<div class="overlay-content">
 											<h2>195.000đ </h2>
 										    <p>Túi Đeo Chéo Nữ Nhỏ T10074</p>
@@ -153,7 +161,7 @@
 										<p>Túi Mặt Cười xinh màu vàng T10073</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay chan">
 										<div class="overlay-content">
 											<h2>120.000đ </h2>
 										    <p>Túi Mặt Cười xinh màu vàng T10073</p>
@@ -173,7 +181,7 @@
 										<p>Túi Cầm Tay Nữ T10067</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay le">
 										<div class="overlay-content">
 											<h2>190.000đ </h2>
 										    <p>Túi Cầm Tay Nữ T10067</p>
@@ -193,7 +201,7 @@
 										<p>Túi Xách Nữ Công Sở T10042</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
-                                    <div class="product-overlay">
+                                    <div class="product-overlay chan">
 										<div class="overlay-content">
 											<h2>420.000đ </h2>
 										    <p>Túi Xách Nữ Công Sở T10042</p>
@@ -219,7 +227,7 @@
 										    <p>Túi xách thời trang Juno cỡ lớn hoạ tiết đan lưới đẹp mắt TXL002</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay le">
 										    <div class="overlay-content">
 											    <h2>590,000₫</h2>
 										        <p>Túi xách thời trang Juno cỡ lớn hoạ tiết đan lưới đẹp mắt TXL002</p>
@@ -239,7 +247,7 @@
 										    <p>Túi xách thời trang Juno cỡ trung quý phái TXT013</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay chan">
 										    <div class="overlay-content">
 											    <h2>950,000₫</h2>
 										        <p>Túi xách thời trang Juno cỡ trung quý phái TXT013</p>
@@ -259,7 +267,7 @@
 										    <p>Ví Cầm Tay Nữ Trang Trí Vương Miện T10049</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay le">
 										    <div class="overlay-content">
 											    <h2>115.000đ</h2>
 										        <p>Ví Cầm Tay Nữ Trang Trí Vương Miện T10049</p>
@@ -280,7 +288,7 @@
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                         
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay chan">
 										    <div class="overlay-content">
 											    <h2>449,000₫</h2>
 										        <p>Bộ Túi 4 Cái Phong Cách Hàn Quốc T10041</p>
@@ -300,7 +308,7 @@
 										    <p>Túi Xách Nữ T10052</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay le">
 										    <div class="overlay-content">
 											    <h2>255.000đ </h2>
 										        <p>Túi Xách Nữ T10052</p>
@@ -320,7 +328,7 @@
 										    <p>Túi Xách Nữ Hình Cú Mèo T10010</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay chan">
 										    <div class="overlay-content">
 											    <h2>135.000đ </h2>
 										        <p>Túi Xách Nữ Hình Cú Mèo T10010</p>
@@ -340,7 +348,7 @@
 										    <p>Túi Xách Nữ Da Lộn T10059</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay le">
 										    <div class="overlay-content">
 											    <h2>190.000đ </h2>
 										        <p>Túi Xách Nữ Da Lộn T10059</p>
@@ -360,7 +368,7 @@
 										    <p>Túi Đựng Điện Thoại Nữ T10068</p>
 										    <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									    </div>
-                                        <div class="product-overlay">
+                                        <div class="product-overlay chan">
 										    <div class="overlay-content">
 											    <h2>210.000đ </h2>
 										        <p>Túi Đựng Điện Thoại Nữ T10068</p>
