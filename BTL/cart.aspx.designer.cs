@@ -58,6 +58,24 @@ namespace BTL {
         protected global::System.Web.UI.WebControls.Button thanhtoan;
         
         /// <summary>
+        /// sessionID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label sessionID;
+        
+        /// <summary>
+        /// timeaccess control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label timeaccess;
+        
+        /// <summary>
         /// Master property.
         /// </summary>
         /// <remarks>

@@ -31,6 +31,9 @@ namespace BTL
                     TotalProduct.Text = tt.Count.ToString()+"sản phẩm";
                     total.InnerText = "Tổng giá trị: " + total_price;
                 }
+
+                timeaccess.Text = "Thời gian truy cập: " + DateTime.Now;
+                sessionID.Text = "SessionID: " + HttpContext.Current.Session.SessionID;
             }
         }
         protected void btnDelete_Click(object sender, EventArgs e)

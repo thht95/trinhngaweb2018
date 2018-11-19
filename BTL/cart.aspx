@@ -50,4 +50,9 @@
             </div>
 		</div>
    </div>
+    <div>
+        <asp:Label runat="server" ID="sessionID"></asp:Label>
+        <br />
+        <asp:Label runat="server" ID="timeaccess"></asp:Label>
+    </div>
 </asp:Content>
