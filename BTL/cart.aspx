@@ -37,7 +37,7 @@
                                 </ItemTemplate>
                             </asp:ListView>
                             <tr>
-                                <td colspan="5" class="alignR">Total products:	</td>
+                                <td runat="server" id="total" colspan="5" class="alignR">	</td>
                             </tr>
                         </tbody>
                     </table>

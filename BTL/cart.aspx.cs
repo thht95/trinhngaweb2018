@@ -14,6 +14,11 @@ namespace BTL
             if (!Page.IsPostBack)
             {
                 List<thongtin> tt = (List<thongtin>)Session["carts"];
+                float total_price = 0;
+                tt.ForEach(x => {
+                    total_price += x.Price;
+                });
+
                 if (tt == null || tt.Count == 0)
                 {
                     TotalProduct.Text = "Giỏ hàng của bạn trống!";
@@ -24,6 +29,7 @@ namespace BTL
                     listcart.DataSource = tt;
                     listcart.DataBind();
                     TotalProduct.Text = tt.Count.ToString()+"sản phẩm";
+                    total.InnerText = "Tổng giá trị: " + total_price;
                 }
             }
         }
